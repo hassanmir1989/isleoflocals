@@ -1,2 +1,0 @@
-# isleoflocals
-Created with CodeSandbox
